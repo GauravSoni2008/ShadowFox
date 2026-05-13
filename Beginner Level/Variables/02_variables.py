@@ -1,0 +1,1 @@
+for = 4 #It gives syntax error cause for is a define keyword in python
